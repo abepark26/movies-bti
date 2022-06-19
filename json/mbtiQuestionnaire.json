@@ -1,0 +1,98 @@
+[
+  {
+    "question": "question1",
+    "question-type": 3,
+    "answer1": "answer1",
+    "answer2": "answer2",
+    "ans1_mbti": "F",
+    "ans2_mbti": "T"
+  },
+  {
+    "question": "question2",
+    "question-type": 1,
+    "answer1": "answer1",
+    "answer2": "answer2",
+    "ans1_mbti": "I",
+    "ans2_mbti": "E"
+  },
+  {
+    "question": "question3",
+    "question-type": 3,
+    "answer1": "answer1",
+    "answer2": "answer2",
+    "ans1_mbti": "F",
+    "ans2_mbti": "T"
+  },
+  {
+    "question": "question4",
+    "question-type": 1,
+    "answer1": "answer1",
+    "answer2": "answer2",
+    "ans1_mbti": "I",
+    "ans2_mbti": "E"
+  },
+  {
+    "question": "question5",
+    "question-type": 3,
+    "answer1": "answer1",
+    "answer2": "answer2",
+    "ans1_mbti": "F",
+    "ans2_mbti": "T"
+  },
+  {
+    "question": "question6",
+    "question-type": 2,
+    "answer1": "answer1",
+    "answer2": "answer2",
+    "ans1_mbti": "S",
+    "ans2_mbti": "N"
+  },
+  {
+    "question": "question7",
+    "question-type": 2,
+    "answer1": "answer1",
+    "answer2": "answer2",
+    "ans1_mbti": "S",
+    "ans2_mbti": "N"
+  },
+  {
+    "question": "question8",
+    "question-type": 2,
+    "answer1": "answer1",
+    "answer2": "answer2",
+    "ans1_mbti": "S",
+    "ans2_mbti": "N"
+  },
+  {
+    "question": "question9",
+    "question-type": 4,
+    "answer1": "answer1",
+    "answer2": "answer2",
+    "ans1_mbti": "P",
+    "ans2_mbti": "J"
+  },
+  {
+    "question": "question10",
+    "question-type": 4,
+    "answer1": "answer1",
+    "answer2": "answer2",
+    "ans1_mbti": "J",
+    "ans2_mbti": "P"
+  },
+  {
+    "question": "question11",
+    "question-type": 1,
+    "answer1": "answer1",
+    "answer2": "answer2",
+    "ans1_mbti": "I",
+    "ans2_mbti": "E"
+  },
+  {
+    "question": "question12",
+    "question-type": 4,
+    "answer1": "answer1",
+    "answer2": "answer2",
+    "ans1_mbti": "P",
+    "ans2_mbti": "J"
+  }
+]
