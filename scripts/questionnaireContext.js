@@ -132,7 +132,7 @@ $(document).ready(function () {
   let slidePosition = 0;
 
   /* load mbti questions */
-  loadJson("./../json/mbtiQuestionnaire.json")
+  loadJson("../json/mbtiQuestionnaire.json")
     .then((response) => {
       loadCarousel(response);
     })
@@ -143,7 +143,6 @@ $(document).ready(function () {
       $(".gauge").width("percentage + " % "");
 
       $("button").click(function () {
-        console.log(answerList);
         slidePosition++;
         var temp_data_type = $(this).attr("data-type");
         var temp_data_answer = $(this).attr("data-answer");
@@ -158,7 +157,7 @@ $(document).ready(function () {
         if (slidePosition == totalSlides) {
           var user_mbti = getMBTI(answerList);
           var form_mbti =
-            "<form name='mbti_form' onsubmit='return validate()' methods='get'\
+            "<form name='mbti_form' onsubmit='return validate()' method='post'\
             action='result.php'>" +
             "<input type='text' name='mbti' id='mbti' value='" +
             user_mbti +

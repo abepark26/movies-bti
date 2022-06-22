@@ -3,40 +3,69 @@
   --sub-color: #000000;
   --contrast-color: #ffffff;
 }
-
-* {
-  box-sizing: border-box;
-  font-family: "Zilla Slab";
-}
-
 html,
 body {
   height: 100%;
-  padding: 2rem;
-  text-align: center;
-  margin: 0;
-  padding: 0;
-
-  animation: fadeVisibility 2s;
 }
 
+body {
+  padding: 2rem;
+  text-align: center;
+}
+
+*,
 p {
-  color: #0f0f0f;
+  box-sizing: border-box;
+}
+
+.main-container {
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  margin: 0;
+}
+
+.main-container p {
   font-family: "Zilla Slab";
 }
 
-.main-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  gap: 20px;
-  height: 100%;
-  padding: 3rem;
+.wrapper {
+  max-width: 340px;
+  width: auto;
+}
+
+.description p {
+  display: block;
+  content: "";
+  margin-top: 30px;
+  text-align: left;
+}
+
+.description p strong {
+  color: var(--main-color);
+}
+
+.description p br {
+  display: block;
+  content: "";
+  margin-top: 16px;
+}
+
+.adjectives {
+  color: var(--main-color);
+  font-style: italic;
+}
+
+.genre {
+  font-size: 28px;
 }
 
 .button-wrapper {
-  margin-top: 30px;
+  margin-top: 60px;
   width: 100%;
 }
 
@@ -61,14 +90,4 @@ p {
 .button-wrapper button:hover {
   background-color: var(--main-color);
   color: var(--contrast-color);
-}
-
-@keyframes fadeVisibility {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-    transform: opacity linear;
-  }
 }

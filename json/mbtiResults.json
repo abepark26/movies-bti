@@ -2,127 +2,111 @@
   {
     "MBTI": "ENFP",
     "genre": "Action",
-    "code": 1365,
     "header": "enthusiastic and open-minded",
-    "description": "You are enthusiastic, and open to new opinions.<br>Some people are all talk and no action, but you are not one of them.<br>Also, your assertive, 'can-do' attitude makes you naturally charming and likable.<br>Since you often feel natural being in a social setting,<br>you are often known as the social butterfly.<br>These traits would make you an <strong>Action</strong> movie."
+    "description": "You are enthusiastic, and open to new opinions.<br>Some people are all talk and no action, but you are not one of them.<br> Also, your assertive, 'can-do' attitude makes you naturally charming and likable. <br> Since you often feel natural being in a social setting, you are often known as the social butterfly. <br> These traits would make you an <strong>Action</strong> movie."
   },
 
   {
     "MBTI": "INFP",
     "genre": "Anime",
-    "code": 7424,
     "header": "idealistic and creative",
-    "description": "You are an idealist and tend to have high expectations.<br>You care deeply about the world you live in,<br>and strive to make the world a better place for everyone.<br>You are hungry for meaning and inspiration,<br>but sometimes your dreamer characteristics compromise<br>your ability to deal with the minutiae of daily life.<br>Accordingly, these traits would make you an <strong>Anime</strong> movie."
+    "description": "You are an idealist and tend to have high expectations.<br> You care deeply about the world you live in, and strive to make the world a better place for everyone.<br> You are hungry for meaning and inspiration, but sometimes your dreamer characteristics compromise your ability to deal with the minutiae of daily life.<br>These traits would make you an <strong>Anime</strong> movie."
   },
 
   {
     "MBTI": "ESFJ",
     "genre": "Children",
-    "code": 783,
     "header": "extroverted and caretaking",
-    "description": "You are often known as the caretaker.<br>You are highly aware of the others' need<br>and seek to help others frequently and sincerely.<br>Yet, you are often come across as childish,<br>because you like to laugh and unwind by being playful.<br>You do not enjoy the potential angst<br>that serious topics can create and thus avoid them at times.<br>These traits would make you a <strong>Children</strong> movie."
+    "description": "You are often known as the caretaker.<br>You are highly aware of the others' needs and seek to help others frequently and sincerely.<br>Yet, you are often come across as childish because you like to laugh and unwind by being playful.<br>You do not enjoy the potential angst that serious topics can create and thus avoid them at times.<br>These traits would make you a <strong>Children</strong> movie."
   },
 
   {
     "MBTI": "ISFJ",
     "genre": "Classics",
-    "code": 46576,
     "header": "loyal and reliable",
-    "description": "You are loyal and supportive.<br>You work hard and enjoy being part of a harmonious environment.<br>You try your best to be cooperative to the people around you,<br>sometimes even at your own expense.<br>You value tradition and formality,<br>and these traits would make you a <strong>Classic</strong> movie."
+    "description": "You are loyal and supportive.<br>You work hard and enjoy being part of a harmonious environment.<br>You try your best to be cooperative to the people around you, sometimes even at your own expense because you value tradition and formality.<br>These traits would make you a <strong>Classic</strong> movie."
   },
 
   {
     "MBTI": "ESFP",
     "genre": "Comedies",
-    "code": 43040,
     "header": "spontaneous and outgoing",
-    "description": "You are optimistic and gregarious.<br>You are gifted at figuring out what will be fun for everyone,<br>so you are often known as the entertainer or the class clown.<br>These spontaneous, energetic, and fun-loving characterstics<br>would make you a <strong>Comedy</strong> movie"
+    "description": "You are optimistic and gregarious.<br>You are gifted at figuring out what will be fun for everyone, so you are often known as the entertainer or the class clown.<br>These spontaneous, energetic, and fun-loving characteristics would make you a <strong>Comedy</strong> movie."
   },
 
   {
     "MBTI": "INTP",
     "genre": "Cult",
-    "code": 7627,
     "header": "unconventional and strategic",
-    "description": "You are a great strategic thinker and a creative problem solver.<br>Accordingly, you are drawned to things you cannot fully understand,<br>especially to the things that are highly complex<br>or have some exotic, mystical element that does not yield to analysis.<br>It can be challenging at times being someone<br>who feels different from most people you encounter,<br>but that doesn't mean there aren't people<br>who appreciate what makes you so unique.<br>These traits would make you a <strong>Cult</strong> movie."
+    "description": "You are a great strategic thinker and a creative problem solver.<br>Accordingly, you are drawn to things you cannot fully understand, especially to the things that are highly complex or have some exotic, mystical element that does not yield to analysis.<br>It can be challenging at times being someone who feels different from most people you encounter. <br>These traits would make you a <strong>Cult</strong> movie."
   },
 
   {
     "MBTI": "ESTJ",
     "genre": "Documentaries",
-    "code": 6839,
     "header": "pragmatic and hardworking",
-    "description": "You are a pragmatic organizer.<br>You value efficiency above anything else,<br>and have little time for anything ethereal or conceptual.<br>You value evidence over conjecture, and always stay grounded in reality.<br>These traits would make you a <strong>Documentary</strong> movie."
+    "description": "You are a pragmatic organizer.<br>You value efficiency above anything else, and have little time for anything ethereal or conceptual.<br>You value evidence over conjecture, and always stay grounded in reality.<br>These traits would make you a <strong>Documentary</strong> movie."
   },
 
   {
     "MBTI": "ISFP",
     "genre": "Romance",
-    "code": 53915,
     "header": "warm and friendly",
-    "description": "You are warm, sensitive, humble and modest.<br>You don't like to be arrogant, and don't like to upset others.<br>Consequently, you hardly ever self-promote.<br>Because you are loyal, patient, and naturally warm,<br>these traits would make you a <strong>Romance</strong> movie."
+    "description": "You are warm, sensitive, humble and modest.<br>You don't like to be arrogant, and don't like to upset others.<br>Consequently, you hardly ever self-promote because you are loyal, patient, and naturally warm. <br>These traits would make you a <strong>Romance</strong> movie."
   },
 
   {
     "MBTI": "ENTP",
     "genre": "Fantasy",
-    "code": 9744,
     "header": "witty and creative",
-    "description": "You are innovative and have a curious mindeset.<br>You have the motivation to resolve challenging problems,<br>and you also have the ability to see the big picture<br>that enables you to generate alternative approaches to the problem.<br>Because you are flexible and have creative problem-solving skills,<br>these traits would make you a <strong>Fantasy</strong> movie."
+    "description": "You are innovative.<br>You are always motivated to solve challenging problems. <br> You also have the ability to see the big picture that enables you to generate alternative approaches to the problem.<br>These traits would make you a <strong>Fantasy</strong> movie."
   },
 
   {
     "MBTI": "INFJ",
     "genre": "Horror",
-    "code": 8711,
     "header": "insightful and intuitive",
-    "description": "You are known for your strong insights about people and situation.<br>You can read between the lines, pick up on nonverbal cues<br>and note the disparity between what people are saying and what people really feel.<br>Because you are able to see others' flaws, insecurities or even secrets,<br>people are sometimes intimidated by you.<br>These traits would make you a <strong>Horror</strong> movie. "
+    "description": "You are known for your strong insights about people and situation.<br>You can read between the lines, pick up on nonverbal cues and note the disparity between what people are saying and what people really feel.<br>Because you are able to see others' flaws, insecurities or even secrets, people are sometimes intimidated by you.<br>These traits would make you a <strong>Horror</strong> movie."
   },
 
   {
     "MBTI": "ISTJ",
     "genre": "Independent",
-    "code": 7077,
     "header": "practical and observant",
-    "description": "You believe in focusing on your work<br>and motivating yourself to remain committed to finish something you have started.<br>You enjoy order and organization in all areas of your life<br>including your home, work, family, and projects.<br>Because being hip isn't always the most important thing for you,<br>you are usually not interested in keeping up with mainstream news.<br>These traits would make you an <strong>Independent</strong> movie."
+    "description": "You believe in focusing on your work and motivating yourself to remain committed to finish something you have started.<br>You enjoy order and organization in all areas of your life including your home, work, family, and projects.<br>Because being hip isn't always the most important thing for you, you are usually not interested in keeping up with mainstream news.<br>These traits would make you an <strong>Independent</strong> movie."
   },
 
   {
     "MBTI": "INTJ",
     "genre": "International",
-    "code": 78367,
     "header": "logical and analytical",
-    "description": "You are often known as the mastermind,<br>due to your strategic, logical way of thinking and strong sense of intuition.<br>Accordingly, to the people around you, you are often considered the best person to get advice from.<br>Your insight allows you to not only predict the outcome<br>but come up with solutions to create positive and lasting change.<br>Also, you always keep at least one eye on the bigger picture,<br>so that you can step outside of your normal environment and expand your vision.<br>These traits would make you an <strong>International</strong> movie."
+    "description": "You are often known as the mastermind, due to your strategic, logical way of thinking and strong sense of intuition.<br>Accordingly, to the people around you, you are often considered the best person to get advice from.<br>Your insight allows you to not only predict the outcome, but come up with solutions to create positive and lasting change.<br>Also, you always keep at least one eye on the bigger picture, so that you can step outside of your normal environment and expand your vision.<br>These traits would make you an <strong>International</strong> movie."
   },
 
   {
     "MBTI": "ENFJ",
-    "genre": "Music & Musicals",
-    "code": 1701,
+    "genre": "Musical",
     "header": "charismatic and entertaining",
-    "description": "You are great at being the center of attention.<br>Accordingly, you are also known as the leader.<br>Your communication skills, enthusiasm and charisma allow you to get people on board with your ideas.<br>You are good at creating supportive and cooperative working environment.<br>Because you are warm and harmonious, these traits would make you a <strong>Musical</strong> movie."
+    "description": "You are great at being the center of attention. Accordingly, you are also known as the leader.<br>Your communication skills, enthusiasm and charisma allow you to get people on board with your ideas.<br>You are good at creating supportive and cooperative working environment.<br>These traits would make you a <strong>Musical</strong> movie."
   },
 
   {
     "MBTI": "ISTP",
     "genre": "Sci-fi",
-    "code": 1626246,
     "header": "independent and calm",
-    "description": "You are often known as the troubleshooter because you are flexible, tolerant and logical.<br>Accordingly, you are ready to adapt to the situation at hand.<br>You can also pick up on details of the current situation,<br>and evaluate information in a detached and logical way.<br>Because of your ability to create a vision that is deeply rooted in logic,<br>you would be a <strong>Sci-Fi</strong> movie."
+    "description": "You are often known as the troubleshooter because you are flexible, tolerant and logical.<br>Accordingly, you are ready to adapt to the situation at hand.<br>You can also pick up on details of the current situation and evaluate information in a detached and logical way.<br>These traits would make a <strong>Sci-Fi</strong> movie."
   },
 
   {
     "MBTI": "ENTJ",
     "genre": "Thrillers",
-    "code": 8933,
     "header": "highly rational and judging",
-    "description": "You are often described as the leader of leaders.<br>You are good at organizing and implementing long term plans for change.<br>You also have a clear vision for the future,<br>and that allows you to lead others with confidence and decisiveness.<br>Because challenging yourself tends to energize you, you are often known as the thrill-seeker.<br>You like the senseation of pushing yourself to the limit and experience something totally new.<br>These traits would make you a <strong>Thriller</strong> movie."
+    "description": "You are often described as the leader of leaders.<br>You are good at organizing and implementing long term plans for change.<br>You also have a clear vision for the future, and that allows you to lead others with confidence and decisiveness.<br>Because challenging yourself tends to energize you, you are often known as the thrill-seeker.<br>You like pushing yourself to the limit and experience something totally new.<br>These traits would make you a <strong>Thriller</strong> movie."
   },
 
   {
     "MBTI": "ESTP",
     "genre": "Sports",
-    "code": 4370,
     "header": "fun and active",
     "description": "You are often known as the Adventurer.<br>You are active, playful, fun and charming.<br>Consequently, you are filled with a thirst for adventure and a hunger for novelty and action.<br>These traits would make you a <strong>Sports</strong> movie."
   }
