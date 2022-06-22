@@ -20,7 +20,7 @@
 		// get data from a separate json file to match user's mbti type with our database
 		$json = file_get_contents("MBTI.json");
 		$data = json_decode($json, true);
-
+	
 		// since the api address for this page will be different based on user's mbti type (16 possibilities)
 		// to make combining process easy,
 		// I hardcoded the rest of the api address that does not change

@@ -1,98 +1,122 @@
 [
   {
-    "question": "question1",
-    "question-type": 3,
-    "answer1": "answer1",
-    "answer2": "answer2",
-    "ans1_mbti": "F",
-    "ans2_mbti": "T"
+    "id": 1,
+    "image_name": "text.svg",
+    "question": "You are on the plane to vacation and get to talk to an ideal stranger. <br> You would ...",
+    "question_type": 3,
+    "ans1": "listen carefully to what the person says.",
+    "ans2": "ask anything you are curious about.",
+    "ans1_type": "F",
+    "ans2_type": "T"
   },
   {
-    "question": "question2",
-    "question-type": 1,
-    "answer1": "answer1",
-    "answer2": "answer2",
-    "ans1_mbti": "I",
-    "ans2_mbti": "E"
+    "id": 2,
+    "image_name": "map.svg",
+    "question": "You are on a spontaneous solo trip to an unfamiliar place. <br> You would ...",
+    "question_type": 1,
+    "ans1": "enjoy solitude and roam freely.",
+    "ans2": "meet other travelers and make new friends.",
+    "ans1_type": "I",
+    "ans2_type": "E"
   },
   {
-    "question": "question3",
-    "question-type": 3,
-    "answer1": "answer1",
-    "answer2": "answer2",
-    "ans1_mbti": "F",
-    "ans2_mbti": "T"
+    "id": 3,
+    "image_name": "gift.svg",
+    "question": "You remember about buying the gift for your friend. <br>  You would think to yourself ...",
+    "question_type": 3,
+    "ans1": "I am indeed a sweet and warm person!",
+    "ans2": "I really have a good memory!",
+    "ans1_type": "F",
+    "ans2_type": "T"
   },
   {
-    "question": "question4",
-    "question-type": 1,
-    "answer1": "answer1",
-    "answer2": "answer2",
-    "ans1_mbti": "I",
-    "ans2_mbti": "E"
+    "id": 4,
+    "image_name": "beer.svg",
+    "question": "You decide to have a night out with other travelers. <br>  At the bar, you would ...",
+    "question_type": 1,
+    "ans1": "stay quiet and listen to the conversations.",
+    "ans2": "break the ice and actively lead conversations.",
+    "ans1_type": "I",
+    "ans2_type": "E"
   },
   {
-    "question": "question5",
-    "question-type": 3,
-    "answer1": "answer1",
-    "answer2": "answer2",
-    "ans1_mbti": "F",
-    "ans2_mbti": "T"
+    "id": 5,
+    "image_name": "bandage.svg",
+    "question": "One traveler tells you that her friend stumbled earlier that day. <br> You would ...",
+    "question_type": 3,
+    "ans1": "show that you care as if you were the one who got hurt.",
+    "ans2": "tell them the location of the closest pharmacy.",
+    "ans1_type": "F",
+    "ans2_type": "T"
   },
   {
-    "question": "question6",
-    "question-type": 2,
-    "answer1": "answer1",
-    "answer2": "answer2",
-    "ans1_mbti": "S",
-    "ans2_mbti": "N"
+    "id": 6,
+    "image_name": "phone.svg",
+    "question": "Before going to bed, you call your family and tell them ...",
+    "question_type": 2,
+    "ans1": "what happened today in detail.",
+    "ans2": "how you felt during the day.",
+    "ans1_type": "S",
+    "ans2_type": "N"
   },
   {
-    "question": "question7",
-    "question-type": 2,
-    "answer1": "answer1",
-    "answer2": "answer2",
-    "ans1_mbti": "S",
-    "ans2_mbti": "N"
+    "id": 7,
+    "image_name": "location.svg",
+    "question": "A hostel mate asks you about the restaurant you went to yesterday. <br> You would ...",
+    "question_type": 2,
+    "ans1": "give detailed directions.",
+    "ans2": "tell them the name of the big building nearby.",
+    "ans1_type": "S",
+    "ans2_type": "N"
   },
   {
-    "question": "question8",
-    "question-type": 2,
-    "answer1": "answer1",
-    "answer2": "answer2",
-    "ans1_mbti": "S",
-    "ans2_mbti": "N"
+    "id": 8,
+    "image_name": "feedback.svg",
+    "question": "You are zoning out while waiting for a bus. <br>  You would be thinking about ...",
+    "question_type": 2,
+    "ans1": "the plan for the rest of the day.",
+    "ans2": "anything your train of thought leads to.",
+    "ans1_type": "S",
+    "ans2_type": "N"
   },
   {
-    "question": "question9",
-    "question-type": 4,
-    "answer1": "answer1",
-    "answer2": "answer2",
-    "ans1_mbti": "P",
-    "ans2_mbti": "J"
+    "id": 9,
+    "image_name": "schedule.svg",
+    "question": "You have not planned for the last day of your trip. <br> You would ...",
+    "question_type": 4,
+    "ans1": "start planning the night before.",
+    "ans2": "plan throughout the trip.",
+    "ans1_type": "J",
+    "ans2_type": "P"
   },
   {
-    "question": "question10",
-    "question-type": 4,
-    "answer1": "answer1",
-    "answer2": "answer2",
-    "ans1_mbti": "J",
-    "ans2_mbti": "P"
+    "id": 10,
+    "image_name": "restaurant.svg",
+    "question": "You find out that the restaurant you searched is closed. <br> You would ...",
+    "question_type": 4,
+    "ans1": "go to a seemingly good restaurant nearby.",
+    "ans2": "search again for a restaurant with a good reputation.",
+    "ans1_type": "P",
+    "ans2_type": "J"
   },
   {
-    "question": "question11",
-    "question-type": 1,
-    "answer1": "answer1",
-    "answer2": "answer2",
-    "ans1_mbti": "I",
-    "ans2_mbti": "E"
+    "id": 11,
+    "image_name": "people.svg",
+    "question": "While roaming around, you encounter a traveler from the hostel. <br> You would ...",
+    "question_type": 1,
+    "ans1": "greet them briefly and quickly pass by.",
+    "ans2": "have a chat with them.",
+    "ans1_type": "I",
+    "ans2_type": "E"
   },
   {
-    "question": "question12",
-    "question-type": 4,
-    "answer1": "answer1",
-    "answer2": "answer2",
-    "ans1_mbti": "P",
-    "ans2_mbti": "J"
+    "id": 12,
+    "image_name": "unknown.svg",
+    "question": "On the last day of your vacation, you encounter an intriguing place. <br> You would ...",
+    "question_type": 4,
+    "ans1": "check out the place without thinking too much.",
+    "ans2": "first think about the rest of your schedule.",
+    "ans1_type": "P",
+    "ans2_type": "J"
   }
 ]
