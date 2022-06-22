@@ -31,7 +31,7 @@
 			<div class="genre"></div>
 			<div class="description"></div>
 			<div class="button-wrapper">
-				<button onClick="window.location='/index.php';">
+				<button onClick="window.location='/';">
 					Restart
 				</button>
 			</div>
