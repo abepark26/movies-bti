@@ -6,6 +6,9 @@
 html,
 body {
   height: 100%;
+  margin: 0;
+  padding: 0;
+  animation: fadeVisibility 2s;
 }
 
 body {
@@ -90,4 +93,14 @@ p {
 .button-wrapper button:hover {
   background-color: var(--main-color);
   color: var(--contrast-color);
+}
+
+@keyframes fadeVisibility {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+    transform: opacity linear;
+  }
 }
