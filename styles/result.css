@@ -73,6 +73,7 @@ p {
 }
 
 .button-wrapper button {
+  font-family: "Lucida Console", "Courier New", monospace;
   width: 100%;
   max-width: 340px;
   height: 45px;
