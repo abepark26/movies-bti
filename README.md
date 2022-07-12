@@ -15,4 +15,4 @@ Here is the link to the website:
 
 ## Miscellaneous
 
-- Pull requests are always welcomed :)
+1. Star, watch, and fork if you are interested :)
