@@ -4,7 +4,8 @@
 
 Movies-BTI is a web application that defines user's [MBTI](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) personality trait based on dynamically collected user inputs. At the end of the questionnaire, the program recommends a movie genre that most fits the user.
 
-Here is the link to the website.
+Here is the link to the website:
+
 [https://movies-bti.herokuapp.com/](https://movies-bti.herokuapp.com/)
 
 ## Future Improvements / Roadmap
